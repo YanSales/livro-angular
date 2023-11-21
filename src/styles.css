@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+/* styles.css */
+
+/* Adicione estilos globais aqui, que afetarão todo o aplicativo Angular */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0; /* Cor de fundo global */
+  }
+  
+  /* Adicione estilos comuns a vários componentes ou a todo o aplicativo aqui */
+  
